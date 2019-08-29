@@ -12,6 +12,6 @@
   "author": "cranelv",
   "license": "ISC",
   "dependencies": {
-    "truffle-manhdwallet-provider": "^1.0.16"
+    "truffle-manhdwallet-provider": "^1.0.17"
   }
 }
