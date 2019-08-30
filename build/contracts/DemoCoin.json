@@ -20279,14 +20279,14 @@
     "2": {
       "events": {},
       "links": {
-        "manUtils": "0x5080506c70342c78d256c7878f3398f63d78991a"
+        "manUtils": "0x53bb6dcb302d3511056494b7d6282702fd370691"
       },
-      "address": "MAN.e8ChPfjyjaheGRifi9AguRXCoaK5",
-      "transactionHash": "0x37d04fdd03e1fcb53897175b01a7f48d7d7d567d9ff1d154c78cff6ae1b62045"
+      "address": "MAN.2XVrAiUx9XK1LxdU764TDTZyEtGzh",
+      "transactionHash": "0x3e96c045542bee090724a23ea6363b41ba2d33a45915119b255480695fe89ea6"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-08-29T07:24:32.914Z",
+  "updatedAt": "2019-08-30T02:21:23.961Z",
   "devdoc": {
     "methods": {
       "allowance(string,string)": {

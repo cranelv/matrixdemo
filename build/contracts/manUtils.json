@@ -30147,12 +30147,12 @@
     "2": {
       "events": {},
       "links": {},
-      "address": "MAN.283nWAKGvhkcE4rMjkRcdWka58QRE",
-      "transactionHash": "0x079bc545d028e613d275bbf8b34e140d3b94ea90978d3f9b554de458754e536c"
+      "address": "MAN.2AfCuShSwyu3XzQJWNYM52P6XJF2P",
+      "transactionHash": "0xd06d98fd664f373b75c103530e1e75abaa4af62afc6bc8036daaf83560b2faae"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-08-29T07:24:32.938Z",
+  "updatedAt": "2019-08-30T02:21:23.978Z",
   "devdoc": {
     "methods": {}
   },

@@ -1385,12 +1385,12 @@
     "2": {
       "events": {},
       "links": {},
-      "address": "MAN.3i51nf7x2p9LouSu5GG3WUisQ3H9e",
-      "transactionHash": "0x254f11a4deead0d45e97f55b09816a90dc9f8ea6bed78940cef002ea1b57c90f"
+      "address": "MAN.4FbLoVYdExc8KfgXW9ZPiH8fubQYf",
+      "transactionHash": "0x7cd2b0f26288454a4a973da318b687e553df48c97e79da8fe6a9d4c04fa565a6"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-08-29T07:24:32.952Z",
+  "updatedAt": "2019-08-30T02:21:23.993Z",
   "devdoc": {
     "methods": {}
   },

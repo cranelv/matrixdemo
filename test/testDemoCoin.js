@@ -3,7 +3,7 @@ const web3 = global.web3;
 contract('DemoCoin', function() {
 
 //    console.log()
-    var owner ="MAN.2AmKUD6p9DjvcBzUADMhbVHQfewWz";
+    var owner ="MAN.2CE2zkLMgs2Pk2Y42nu8PgpVDDjMg";
     var to ="MAN.5ZUUYf8QQcPizuqCQMVQam5zmJZj";
     var value = 100000000000;
 
