@@ -59,12 +59,10 @@ module.exports = {
       port: 8567, // Standard Ethereum port (default: none)
       network_id: 2, // Any network (default: none)
       type: "matrix",
-//      dryRun: false,
       skipDryRun: true,
       gasPrice: 18000000000,
       //[chainId, privatekey, httpProvider]
-      provider: () => new MANHDWalletProvider(1,"0xb56fa84c1f52066de7aa38327597690a4d91773758327c225a9c3a472d93ae00","http://127.0.0.1:8567"),
-//      from: "MAN.2AmKUD6p9DjvcBzUADMhbVHQfewWz"
+      provider: () => new MANHDWalletProvider(1,"0xb56fa84c1f52066de7aa38327597690a4d91773758327c225a9c3a472d93ae00","http://127.0.0.1:8567")
     }
 
     // Another network with more advanced options...
